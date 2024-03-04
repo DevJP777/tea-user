@@ -1,0 +1,22 @@
+{
+  "name": "tea-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJP777/tea-user.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevJP777/tea-user/issues"
+  },
+  "homepage": "https://github.com/DevJP777/tea-user#readme",
+  "dependencies": {
+    "tea-chalange": "^1.1.0"
+  }
+}
