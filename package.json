@@ -19,6 +19,7 @@
   "Source": "https://github.com/DevJP777/tea-user.git",
   "source": "https://github.com/DevJP777/tea-user.git",
   "dependencies": {
-    "tea-chalange": "^1.1.0"
+    "tea-chalange": "^1.1.0",
+    "tea-contributors": "^1.0.1"
   }
 }
