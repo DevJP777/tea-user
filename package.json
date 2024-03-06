@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevJP777/tea-user.git"
+    "url": "https://github.com/DevJP777/tea-user.git"
   },
   "author": "",
   "license": "MIT",
@@ -16,6 +16,8 @@
     "url": "https://github.com/DevJP777/tea-user/issues"
   },
   "homepage": "https://github.com/DevJP777/tea-user#readme",
+  "Source": "https://github.com/DevJP777/tea-user.git",
+  "source": "https://github.com/DevJP777/tea-user.git",
   "dependencies": {
     "tea-chalange": "^1.1.0"
   }
