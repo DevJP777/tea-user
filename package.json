@@ -1,6 +1,6 @@
 {
   "name": "tea-user",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,10 @@
   "Source": "https://github.com/DevJP777/tea-user.git",
   "source": "https://github.com/DevJP777/tea-user.git",
   "dependencies": {
+    "alchemy-sdk": "^3.2.0",
     "ethers": "^6.11.1",
     "tea-chalange": "^1.1.0",
+    "tea-comunity-id": "^1.0.1",
     "tea-contributors": "^1.0.1"
   }
 }
