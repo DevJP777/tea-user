@@ -1,3 +1,5 @@
+# https://tea.xyz/what-is-this-file
+---
 version: 1.0.0
 codeOwners:
   - '0x601051910F195452394C5590696e5559f9029EeB'
@@ -53,5 +55,5 @@ codeOwners:
   - '0xd93CeA09F0e7F6809C8a27eA55D6FB7890C8EdC0'
   - '0x4978a9B19Db1e46e1543f88E25E6bb891061675b'
   - '0xeD8A3Cb81f6cd86e3Ad8831AD218636aD845C91A'
-  
+
 quorum: 1
